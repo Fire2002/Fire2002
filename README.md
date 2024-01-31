@@ -1,6 +1,6 @@
 @Fire2002
 I am currently a researcher in condensed matter physics
-and furthering my experience in ML and LLMs.
+studying data visualization, LLMs, backending
 
 Available thru discord @Fire#9638
 
