@@ -11,9 +11,7 @@ Git Topics:
 - QM, PQC, QRC
 - LLMs, ML, backending
 
-Available through Discord and LinkedIn:
-Discord: @Fire#9638
-LI: https://www.linkedin.com/in/jmb02
+Available through LinkedIn (see profile)
 
 <!---
 Fire2002/Fire2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
