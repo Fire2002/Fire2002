@@ -7,9 +7,10 @@ and making the world a more secure place.
 
 Git Topics:
 - Data Science (e.g., convex optimization methods)
-- Condensed matter physics, nanophysics
+- IT ML, LLMs, Cybersecurity
+- CMP, Nanophysics, Nuclear Physics
 - QM, PQC, QRC
-- LLMs, ML, backending
+- Physics Research
 
 Available through LinkedIn (see profile)
 
